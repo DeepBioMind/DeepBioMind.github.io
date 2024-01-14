@@ -28,7 +28,7 @@ twitter_username: DeepBioMind
 github_username:  DeepBioMind
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
