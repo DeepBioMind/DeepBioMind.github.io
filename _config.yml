@@ -22,19 +22,15 @@ title: Masoud Bahrami
 email: Masoud@MasodBahrami.Id
 description: >- # this means to ignore newlines until "baseurl:"
   Deep Bio Mind
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /
+url: https://deepbiomind.github.io/
 twitter_username: DeepBioMind
 github_username:  DeepBioMind
 
 
-# Somehow this fixed the reason why my css was not rendering in deployed mode (production)
-baseurl: /
-url: https://deepbiomind.github.io/
-
 # Build settings
-# theme: minima
-theme: jekyll-theme-minima
+theme: minima
+# theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
