@@ -1,9 +1,9 @@
 ---
 
 layout: post
-title: "🔬 Unveiling the Wonders of Biology: Exploring the Marvels of Life 🔬"
-date: Sunday, 14 January 2024
-categories: index
+title: "Unveiling the Wonders of Biology: Exploring the Marvels of Life"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: posts Biology
 author: Masoud Bahrami
 ---
 
