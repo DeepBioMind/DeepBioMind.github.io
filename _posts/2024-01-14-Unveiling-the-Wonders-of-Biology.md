@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "🔬 Unveiling the Wonders of Biology: Exploring the Marvels of Life 🔬"
+title: " Unveiling the Wonders of Biology: Exploring the Marvels of Life"
 date: Sunday, 14 January 2024
 categories: Biology BioTech
 author: DeepBioMind

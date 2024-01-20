@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "🔬 The Art and Science of Designing Molecules: Crafting a Molecular Symphony 🔬"
+title: "The Art and Science of Designing Molecules: Crafting a Molecular Symphony"
 date: Sunday, 20 January 2024
 categories: index
 author: Masoud Bahrami

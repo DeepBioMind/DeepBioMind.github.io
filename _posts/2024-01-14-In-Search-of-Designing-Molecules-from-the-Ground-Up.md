@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 🔬 In Search of Designing Molecules from the Ground Up 🔬
+title:  In Search of Designing Molecules from the Ground Up 
 date: Sunday, 14 January 2024
 categories: Biology BioTech
 author: DeepBioMind
