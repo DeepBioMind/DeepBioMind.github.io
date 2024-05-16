@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title: Life in Biology:Exploring the Wonders of Living Organisms 
-date: Wednesday, 27 March 2024
+title: Living Organs as Building Blocks
+date: Thursday, 16 May 2024
 categories: Biology BioTech Life
 author: DeepBioMind
 ---
